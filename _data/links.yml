@@ -64,6 +64,10 @@
       style: basic
       url: https://moodle2.uni-leipzig.de/
 
+    - name: webvpn
+      style: basic
+      url: https://webvpn.uni-leipzig.de/
+
 - categories:
   - name: 购物
     links:
