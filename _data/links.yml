@@ -42,6 +42,28 @@
       style: basic
       url: https://one.awyun.top
 
+  - name: Uni Leipzig
+    links:
+    - name: AlmaWeb
+      style: basic
+      url: https://almaweb.uni-leipzig.de/
+
+    - name: OPAL
+      style: basic
+      url: https://bildungsportal.sachsen.de/opal/home
+
+    - name: GitLab
+      style: basic
+      url: https://git.informatik.uni-leipzig.de/
+
+    - name: GitLab-fsinf
+      style: basic
+      url: https://git.fsinf.informatik.uni-leipzig.de/
+
+    - name: Moodle2
+      style: basic
+      url: https://moodle2.uni-leipzig.de/
+
 - categories:
   - name: 购物
     links:
