@@ -121,6 +121,18 @@
       style: basic
       url: https://www.wikipedia.org/
 
+    - name: Azure
+      style: basic
+      url: https://portal.azure.com/
+
+    - name: Office 365
+      style: basic
+      url: https://portal.office.com/
+
+    - name: OneDrive
+      style: basic
+      url: https://onedrive.live.com/
+      
   - name: 社交
     links:
     - name: 微博
